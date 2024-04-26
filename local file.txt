@@ -1,5 +1,8 @@
 writing on  local computer 
 checking commit and file
 
-------------------------
+-----------
 this sectence write online 
+--------
+one more checking
+Erase half of the 4th line
